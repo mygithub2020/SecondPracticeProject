@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Cnn UI Tests" duration-ms="11724" started-at="2014-01-09T20:49:33Z" finished-at="2014-01-09T20:49:45Z">
+    <groups>
+    </groups>
+    <test name="TestUrl" duration-ms="11724" started-at="2014-01-09T20:49:33Z" finished-at="2014-01-09T20:49:45Z">
+      <class name="LogInLogOutTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:LogInLogOutTest@53395472]" name="setUp" is-config="true" duration-ms="4270" started-at="2014-01-09T15:49:33Z" finished-at="2014-01-09T15:49:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="go_to_Website()[pri:0, instance:LogInLogOutTest@53395472]" name="go_to_Website" is-config="true" duration-ms="1604" started-at="2014-01-09T15:49:37Z" depends-on-methods="Base.setUp" finished-at="2014-01-09T15:49:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- go_to_Website -->
+        <test-method status="PASS" signature="logIn_Test()[pri:0, instance:LogInLogOutTest@53395472]" name="logIn_Test" duration-ms="5835" started-at="2014-01-09T15:49:39Z" finished-at="2014-01-09T15:49:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logIn_Test -->
+      </class> <!-- LogInLogOutTest -->
+    </test> <!-- TestUrl -->
+  </suite> <!-- Cnn UI Tests -->
+</testng-results>

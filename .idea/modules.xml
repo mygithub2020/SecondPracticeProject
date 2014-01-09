@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/CraigsList_Module/CraigsList_Module.iml" filepath="$PROJECT_DIR$/CraigsList_Module/CraigsList_Module.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SecondPracticeProject.iml" filepath="$PROJECT_DIR$/SecondPracticeProject.iml" />
+      <module fileurl="file://$PROJECT_DIR$/UniversalModule/UniversalModule.iml" filepath="$PROJECT_DIR$/UniversalModule/UniversalModule.iml" />
+    </modules>
+  </component>
+</project>
+
